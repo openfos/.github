@@ -4,8 +4,8 @@
 
 Welcome to OpenFOS 👋
 
-OpenFOS is dedicated to open systems and the foundations that enable technology to function in an integrated way. This includes operating systems, software, and infrastructure.
+OpenFOS is dedicated to open systems and the foundations that allow technology to function in an integrated way. 
 
-We value openness, independence, and interoperability. These principles create the space for us to understand, adapt, and develop technology together. 
+We value openness and independence. These principles create the space for us to understand, adapt, and develop technology together.
 
-Whether you are developing a project, exploring an idea, or simply curious about open technology, you are welcome here.
+Whether you are developing a project, exploring an idea, or are simply curious about open technology, you are welcome here.
