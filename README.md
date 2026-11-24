@@ -1,1 +1,1 @@
-# OpenFOS
+# Foundation of Open Systems
