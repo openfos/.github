@@ -4,7 +4,7 @@
 
 Welcome to OpenFOS 👋
 
-OpenFOS is dedicated to open systems and the foundations that allow technology to function in an integrated way. 
+OpenFOS is dedicated to open systems and the foundations that help technology work together.
 
 We value openness and independence. These principles create the space for us to understand, adapt, and develop technology together.
 
