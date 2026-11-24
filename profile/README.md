@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="OpenFOS-logo-mono-black.png" alt="OpenFOS branding">
+  <img src="OpenFOS-logo-mono-black.png" alt="OpenFOS branding" width="720">
 </p>
 
 Welcome to OpenFOS 👋
